@@ -12,7 +12,7 @@ Aplikasi ini adalah sebuah website aplikasi statis yang dibangun untuk memenuhi 
 ## 📂 Struktur Folder
 Penyusunan file dilakukan secara terorganisir untuk memenuhi standar kerapian kualifikasi lomba:
 
-![Tampilan Struktur Folder](assets/z.png)
+![Tampilan Struktur Folder](asset/z.png)
 
 ## 📸 Tampilan Aplikasi 
 # Beranda
