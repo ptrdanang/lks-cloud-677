@@ -16,13 +16,13 @@ Penyusunan file dilakukan secara terorganisir untuk memenuhi standar kerapian ku
 
 ## 📸 Tampilan Aplikasi 
 # Beranda
-![Tampilan Beranda]()
+![Tampilan Beranda](asset/image.png)
 
 # Fitur API
-![Tampilan Fitur API]()
+![Tampilan Fitur API](asset/d.png)
 
 # Identitas Peserta (About)
-![Tampilan About]()
+![Tampilan About](asset/s.png)
 
 ## 🚀 Langkah-Langkah Menjalankan Aplikasi
 1. **Persiapan Kode**: Pastikan file index.html, about.html, dan style.css sudah siap di folder proyek.
@@ -30,3 +30,7 @@ Penyusunan file dilakukan secara terorganisir untuk memenuhi standar kerapian ku
 3. **Koneksi Platform Cloud**: Masuk ke akun Vercel/Netlify, pilih "New Project", dan hubungkan dengan repositori GitHub tadi.
 4. **Proses Deploy**: Klik tombol Deploy. Platform akan melakukan build otomatis hingga mendapatkan URL publik (HTTPS).
 5. **Uji Coba**: Buka link hasil deploy untuk memastikan semua navigasi dan fitur API berfungsi tanpa error.
+
+## 🔗 Link Penting
+* **Link Repository** (https://github.com/ptrdanang/lks-cloud-677.git)
+* **Link Hasil Deploy** (https://lks-cloud-677.vercel.app/)
